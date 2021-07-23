@@ -9,8 +9,19 @@
 **Android Studio version 4.2.2**
 
 ## App's Main Screen
+
 [Click Here](https://github.com/KevinMCerqueira/KevinMCerqueira/blob/main/Main%20Screen%20App.jpeg)
 
 # How to make the App
-- First you need to have the location permission to can use the GPS functions.
+- First you need to request to have the location permission to can use the GPS functions in the onResume function.
+
 [Click Here](https://github.com/KevinMCerqueira/KevinMCerqueira/blob/main/Location%20Permission.png)
+
+- After that you need to implement on the MainActivity the libraries of LocationListener and SensorEventListener to use the GPS functions and the sensor's functions.
+
+[Click Here](https://github.com/KevinMCerqueira/KevinMCerqueira/blob/main/Libraries%20Implements.png)
+
+- You need to create variables to the LocationManager, SensorManager, Sensor and to set this data to view in the App's FrontEnd (with the TextView).
+
+[Click Here](https://github.com/KevinMCerqueira/KevinMCerqueira/blob/main/Variables%20Sensor%20and%20Location.png)
+
