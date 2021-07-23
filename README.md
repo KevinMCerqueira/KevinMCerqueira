@@ -41,7 +41,7 @@ in the textView variable to put in the Apps's FrontEnd.
 - Now you will to set the Sensor functions what it needs. The "values[0]" for the acceleration on the X vector. The "values[1]" for the acceleration on the Y vector. 
 The "values[2]" for the acceleration on the Z vector. And i used the DecimalFormat function to format the values to get only one decimal place of the number. 
 And i set in xText, yText and zText the corresponding data to X, Y and Z .
-[click Here](https://github.com/KevinMCerqueira/KevinMCerqueira/blob/main/onSensorChanged%20Function.png)
+[Click Here](https://github.com/KevinMCerqueira/KevinMCerqueira/blob/main/onSensorChanged%20Function.png)
 
 - Finally, you will create the App's FrontEnd with the Main Screen and the corresponding textViews to show speed and acceleration values.
 [Click Here](https://github.com/KevinMCerqueira/KevinMCerqueira/blob/main/FrontEnd%20App.png)
