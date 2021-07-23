@@ -13,6 +13,7 @@
 [Click Here](https://github.com/KevinMCerqueira/KevinMCerqueira/blob/main/Main%20Screen%20App.jpeg)
 
 # How to make the App
+
 - First you need to request to have the location permission to can use the GPS functions in the onResume function.
 
 [Click Here](https://github.com/KevinMCerqueira/KevinMCerqueira/blob/main/Location%20Permission.png)
@@ -24,4 +25,11 @@
 - You need to create variables to the LocationManager, SensorManager, Sensor and to set this data to view in the App's FrontEnd (with the TextView).
 
 [Click Here](https://github.com/KevinMCerqueira/KevinMCerqueira/blob/main/Variables%20Sensor%20and%20Location.png)
+
+- You will need to get the GPS data to use in the App. For this you will call the getSystemService and request the LOCATION_SERVIDE and the SENSOR_SERVICE. 
+After this call you will to set the TYPE_LINEAR_ACCELERATION and register that data in the Sensor.
+
+[Click Here](https://github.com/KevinMCerqueira/KevinMCerqueira/blob/main/onCreate%20Function.png)
+
+
 
