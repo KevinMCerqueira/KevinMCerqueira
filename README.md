@@ -27,7 +27,7 @@
 - After that you need to implement on the MainActivity the libraries of LocationListener and SensorEventListener to use the GPS functions and the sensor's functions.
 [Click Here](https://github.com/KevinMCerqueira/KevinMCerqueira/blob/main/Libraries%20Implements.png)
 
-- You need to create variables to the LocationManager, SensorManager, Sensor and to set this data to view in the App's FrontEnd (with the TextView).
+- You need to create variables to the LocationManager, SensorManager, Sensor and to set this data to viewing in the App's FrontEnd (with the TextView)
 [Click Here](https://github.com/KevinMCerqueira/KevinMCerqueira/blob/main/Variables%20Sensor%20and%20Location.png)
 
 - You will need to get the GPS data to use in the App. For this you will call the getSystemService and request the LOCATION_SERVIDE and the SENSOR_SERVICE. 
