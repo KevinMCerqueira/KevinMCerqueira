@@ -4,7 +4,7 @@
 *I’m currently learning to program for mobile phones in Android Studio.*
 ~~So far this is it guys.~~
 
-**_MY FIRST PROJECT ON GITHUB_**
+**_MY FIRST PROJECT ON GITHUB BELOW_**
 
 # Speedometer
 
@@ -46,5 +46,5 @@ And i set in xText, yText and zText the corresponding data to X, Y and Z .
 - Finally, you will create the App's FrontEnd with the Main Screen and the corresponding textViews to show speed and acceleration values.
 [Click Here](https://github.com/KevinMCerqueira/KevinMCerqueira/blob/main/FrontEnd%20App.png)
 
-Thank you
-See you next project
+Thank you.
+See you next project.
